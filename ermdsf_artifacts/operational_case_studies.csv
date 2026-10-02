@@ -1,0 +1,4 @@
+,case_type,engine_id,cycle,actual_RUL,predicted_RUL,lower_95,upper_95,failure_probability,risk_level,top_SHAP_drivers,RUL_reducing_drivers,recommendation
+8999,Healthy,46,205,51,99.43686,59.01042175292969,139.86329650878906,0.007003812,Low,"sensor_11 (-10.86), sensor_2 (+5.50), sensor_9 (+5.34)","sensor_11 (-10.86), sensor_20 (-2.24), sensor_13 (-1.78)",Continue operation with routine condition monitoring
+6767,Warning-stage,34,156,39,41.19079,0.7643508911132812,81.61722564697266,0.052466378,High,"sensor_9 (-26.83), sensor_14 (-14.58), sensor_11 (-11.52)","sensor_9 (-26.83), sensor_14 (-14.58), sensor_11 (-11.52)",Schedule priority inspection and maintenance planning
+17098,Critical,84,214,53,28.866404,0.0,69.2928409576416,0.4350085,High,"sensor_11 (-24.01), sensor_4 (-11.93), sensor_12 (-7.18)","sensor_11 (-24.01), sensor_4 (-11.93), sensor_12 (-7.18)",Schedule priority inspection and maintenance planning
