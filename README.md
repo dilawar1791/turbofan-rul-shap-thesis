@@ -1,4 +1,4 @@
-# Remaining Useful Life Prediction of Aircraft Turbofan Engines Using Machine Learning and SHAP
+# Beyond Prediction Accuracy: Explanation Stability, Robustness and Uncertainty in Machine-Learning-Based Remaining Useful Life Estimation for Aircraft Turbofan Engines
 
 This repository contains the code, data, and supporting prototype artifacts developed for my Master's thesis at Hochschule Trier.
 
